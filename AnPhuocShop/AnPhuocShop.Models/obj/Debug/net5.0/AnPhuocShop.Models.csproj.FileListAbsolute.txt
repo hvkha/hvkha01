@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\bin\Debug\net5.0\AnPhuocShop.Models.deps.json
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\bin\Debug\net5.0\AnPhuocShop.Models.dll
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\bin\Debug\net5.0\ref\AnPhuocShop.Models.dll
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\bin\Debug\net5.0\AnPhuocShop.Models.pdb
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\obj\Debug\net5.0\AnPhuocShop.Models.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\obj\Debug\net5.0\AnPhuocShop.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\obj\Debug\net5.0\AnPhuocShop.Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\obj\Debug\net5.0\AnPhuocShop.Models.AssemblyInfo.cs
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\obj\Debug\net5.0\AnPhuocShop.Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\obj\Debug\net5.0\AnPhuocShop.Models.dll
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\obj\Debug\net5.0\ref\AnPhuocShop.Models.dll
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Models\obj\Debug\net5.0\AnPhuocShop.Models.pdb
