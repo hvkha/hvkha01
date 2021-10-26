@@ -5,8 +5,28 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\AnPhuocDetails.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Blazor.HttpClient" Version="3.2.0-preview3.20168.3" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\AnPhuocShop.Api\AnPhuocShop.Api.csproj" />
     <ProjectReference Include="..\AnPhuocShop.Models\AnPhuocShop.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\AnPhuocDetails.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\AnPhuocDetails.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\AnPhuocDetails.razor" />
   </ItemGroup>
 
 </Project>

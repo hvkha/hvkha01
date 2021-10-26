@@ -91,3 +91,4 @@ C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Web\bin\Debug\net5.
 C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Web\bin\Debug\net5.0\AnPhuocShop.Api.dll
 C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Web\bin\Debug\net5.0\AnPhuocShop.Api.pdb
 C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Web\obj\Debug\net5.0\AnPhuocShop.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\ASPNET\AnPhuocShop\AnPhuocShop.Web\bin\Debug\net5.0\Microsoft.AspNetCore.Blazor.HttpClient.dll

@@ -82,6 +82,7 @@ using AnPhuocShop.Web.Shared;
 #line default
 #line hidden
 #nullable disable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class AnPhuocList : AnPhuocListBase
     {
         #pragma warning disable 1998
